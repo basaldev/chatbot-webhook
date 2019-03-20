@@ -18,14 +18,6 @@ function getKey(){
 const uri = 'https://authservice.priaid.ch/login';
 const liveAccounts = [
  {
- username: 'Qp73N_EXODEVHUB_COM_AUT', // INFO
- password: 'n2SKr7g3C8Wkd5X9L'
- },
- {
- username: 'i3L2K_GMAIL_COM_AUT', // ALEX
- password: 'o7E9KgQx24SyCc83F'
- },
- {
   username: 'Ni73E_CLICK-MAIL_NET_AUT', //rand1
   password: 'Qk87ExMz45YqGt62R'
  },
