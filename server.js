@@ -32,7 +32,15 @@ const liveAccounts = [
  {
   username: 'y4RMr_VIRTUAL-EMAIL_COM_AUT',  //rand2
   password: 'Xp68MnRy7m9PKs32L'
- }
+ },
+ {
+  username: 'Dz32J_MAIL-PRO_INFO_AUT',  //rand2
+  password: 'Ra7q6F2Nwo8ZDm3c9'
+ },
+ {
+  username: 'Hb92P_CLICK-MAIL_NET_AUT',  //rand2
+  password: 'Cb8p9E7ZiSm4g3QNw'
+ },
 ];
 const { username, password } = sample(liveAccounts);
 let API_KEY;
